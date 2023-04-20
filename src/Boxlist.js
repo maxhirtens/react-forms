@@ -29,9 +29,6 @@ const Boxlist = () => {
             <h1>Boxes!</h1>
             <NewBoxForm addBox={add} />
             {boxesOnPage}
-            <ul>
-
-            </ul>
         </div>
            )
 }

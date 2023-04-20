@@ -41,3 +41,7 @@
   border: 2px dotted black;
   margin: 10px;
 }
+
+input, .todo {
+  margin: 10px;
+}
